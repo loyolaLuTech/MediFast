@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="MediFast/MediFast.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Box Sync/COMP170-001Team5/Life/Run.cs">
+    <Files>
+      <File FileName="MediFast/main.cs" Line="25" Column="3" />
+      <File FileName="MediFast/MediFastInterface.cs" Line="11" Column="1" />
+      <File FileName="MediFast/Question.cs" Line="116" Column="39" />
+      <File FileName="../../Box Sync/COMP170-001Team5/Life/Run.cs" Line="307" Column="1" NotebookId="1" />
+      <File FileName="../../Box Sync/COMP170-001Team5/Life/SAT.cs" Line="59" Column="4" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/jonahmurray/Desktop/MediFast/MediFast/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jonahmurray/Desktop/MediFast/MediFast/bin/Debug/ui.dll
+/Users/jonahmurray/Desktop/MediFast/MediFast/bin/Debug/ui.dll.mdb
+/Users/jonahmurray/Desktop/MediFast/MediFast/bin/Debug/MediFast.exe.mdb
+/Users/jonahmurray/Desktop/MediFast/MediFast/bin/Debug/MediFast.exe
+/Users/jonahmurray/Desktop/MediFast/MediFast/obj/x86/Debug/MediFast.exe
+/Users/jonahmurray/Desktop/MediFast/MediFast/obj/x86/Debug/MediFast.exe.mdb
+/Users/jonahmurray/Desktop/MediFast/MediFast/bin/Debug/fio.dll
+/Users/jonahmurray/Desktop/MediFast/MediFast/bin/Debug/fio.dll.mdb
