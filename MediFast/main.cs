@@ -33,6 +33,7 @@ namespace IntroCS
 				Console.WriteLine ();
 				Console.WriteLine ("Should Symptoms Persist: ");
 				Console.WriteLine ("Visit Health Center at: \n (555)555-555 \n 1234 Road Street \n 60660 Chicago, IL \n 3.2 miles away");
+				Console.ReadKey ();
 			}
 
 			else if (service_response == "b"){
