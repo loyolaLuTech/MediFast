@@ -1,0 +1,52 @@
+What kind of health care do you need?
+
+a Physical health
+b Mental health
+c Sexual/reproductive health
+
+Male or female?
+
+a Male
+b Female
+
+Age?
+
+a 12 & under
+b 13 - 17
+c 18 - 24
+d 25 - 34
+e 35 - 44
+f 45 - 54
+g 55 - 64
+h 65 & over
+
+
+Please locate affected body part
+
+a Skin
+b Organs
+c Muscles
+d Sinuses
+e Bones
+f Throat
+g Genitals
+
+Select your first symptom
+
+a Runny Nose
+b Itchy Throat
+c Swollen Lymph Nodes
+
+Select your second symptom
+
+a Runny Nose
+b Itchy Throat
+c Swollen Lymph Nodes
+
+How long have you had these symptoms?
+
+a 1 day
+b A few days
+c 1 week
+d Longer than 1 week
+

@@ -1,0 +1,15 @@
+What kind of doctor do you need?
+
+a Family Doctor
+b General Medicine
+c Pediatrician
+d Geriatrician 
+e Other
+
+Please enter your search radius
+
+a 1 mile
+b 5 miles
+c 10 miles
+d 25 miles
+e 50+ miles
